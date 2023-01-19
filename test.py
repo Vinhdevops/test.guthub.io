@@ -41,3 +41,4 @@ if luachon1 == "phai":
         print("Trò chơi kết thúc.Bạn đã thất bại")
 else:
     print("Trò chơi kết thức vì bạn đã rơi vào một cái hố")
+#
